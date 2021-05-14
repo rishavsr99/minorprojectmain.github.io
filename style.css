@@ -447,6 +447,20 @@ body{
     border: 0.3px dashed grey;
 }
 
+.bill a{
+    text-decoration: none;
+    cursor: pointer;
+    margin-bottom: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(0, 0, 0);
+    width: 120px;
+    box-shadow: 2px 2px rgb(216, 216, 216);
+    padding: 10px;
+    text-align: center;
+    border-radius: 2px;
+    border: 1px solid black;
+}
+
 .cal-line{
     margin-left: 50px;
     width: 0.000001px;
